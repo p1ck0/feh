@@ -15,6 +15,6 @@ members = [
 
 [dependencies]
 structopt = "0.3.13"
-cli = { path = "../flns/cli"}
-watcher = { path = "../flns/watcher"}
+cli = { path = "../feh/cli"}
+watcher = { path = "../feh/watcher"}
 
